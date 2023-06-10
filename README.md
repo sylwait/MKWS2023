@@ -1,6 +1,3 @@
 # MKWS2023
-MKWS projekt
-INFLUENCE OF TEMPERATURE AND
-PRESSURE ON IGNITION DELAY
-TIME
-Ignition delay for variable molar fuel compositions
+AUTOIGNITION OF METHANE FOR VARYING INITIAL CONDITIONS
+Influence of molar fuel composition on ignition delay
